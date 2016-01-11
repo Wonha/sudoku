@@ -15,8 +15,11 @@ Files included:
 		Intermediate products of SUDOKU solver.
 
 Usage: 
+		
 	1. Compile sudoku.c(ex. gcc -Wall -o sudoku sudoku.c). The name of compiled file should be 'sudoku'
+
 	2. Execute sudoku.pl(by command 'perl sudoku.pl')
+
 	3. Write sudoku problem to file 'sudoku.txt'. Refer the example about format of sudoku.txt file below.
 
 	5 3 0 0 7 0 0 0 0
@@ -32,6 +35,7 @@ Usage:
 	where the 0 means target to solve, unknown block.
 
 Cautions:
+	
 	1. miniSAT program should be installed in your environment. You can get miniSAT from 'http://minisat.se/MiniSat.html'.
 
 Application Development Environment:
