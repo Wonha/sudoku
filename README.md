@@ -1,6 +1,9 @@
-This is SUDOKU solver using miniSAT solver.
+Program Description:
+
+  This is SUDOKU solver using miniSAT solver.
 
 Files included:
+
   sudoku.pl, sudoku.c
     sudoku.c should be compiled to executable file named 
 	sudoku(gcc -Wall -o sudoku sudoku.c) before execution.
@@ -34,5 +37,8 @@ Cautions:
   1. miniSAT program should be installed in your environment. 
      You can get miniSAT from 'http://minisat.se/MiniSat.html'.
 
-  
-  
+Application Development Environment:
+
+  Language : perl 5, C
+  compiler : gcc 4.8.4
+  OS : Ubuntu 14.04.1 64bit desktop
