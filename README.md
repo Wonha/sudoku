@@ -1,6 +1,6 @@
 Program Description:
 
-  This is SUDOKU solver using miniSAT solver.
+	This is SUDOKU solver using miniSAT solver.
 
 Files included:
 
