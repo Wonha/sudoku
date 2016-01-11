@@ -39,6 +39,7 @@ Cautions:
 
 Application Development Environment:
 
-	Language : perl 5, C
-	compiler : gcc 4.8.4
-	OS : Ubuntu 14.04.1 64bit desktop
+	Language: perl 5, C
+	compiler: gcc 4.8.4
+	Text Editor: VIM 7.4
+	OS: Ubuntu 14.04.1 64bit desktop
