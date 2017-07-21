@@ -1,7 +1,7 @@
 Program Description:
 
-	This is SUDOKU solver using miniSAT solver.
-
+	SUDOKU solver using miniSAT solver
+	
 Files included:
 
 	sudoku.pl, sudoku.c
@@ -34,8 +34,7 @@ Usage:
 
 Cautions:
 	
-	1. miniSAT program should be installed in your environment. You can get miniSAT from 
-	'http://minisat.se/MiniSat.html'.
+	1. miniSAT program should be installed. You can get miniSAT from [here](http://minisat.se/MiniSat.html).
 
 Application Development Environment:
 
